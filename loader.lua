@@ -1,4 +1,4 @@
-local linkvertiseUrl = "https://link-center.net/5303608/sGWkGoPMZYrW""
+local linkvertiseUrl = "https://link-center.net/5303608/sGWkGoPMZYrW"
 
 local screenGui = Instance.new("ScreenGui")
 screenGui.Name = "KeySystem"
